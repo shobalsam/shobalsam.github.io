@@ -316,8 +316,24 @@ ul.list-inline.list-social {
 	color: black;
 }
 
-
-
+*.icon-darkblue {
+	color: darkblue;
+}
+*.icon-blue {
+	color: blue;
+}
+*.icon-twitter-blue {
+	color: #33CCFF;
+}
+*.icon-fb-blue {
+	color: #3B5998;
+}
+*.icon-linkedin-blue {
+	color: #4875B4;
+}
+*.icon-google-plus-red {
+	color: #C63D2D;
+}
 
 /***********************************************************/
 /*                   Theme: text shadows                   */
